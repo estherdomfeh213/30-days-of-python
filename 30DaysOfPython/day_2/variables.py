@@ -28,3 +28,6 @@ print(type(fav_food))
 print(type(music))
 print(type(color))
 print(type(vacation))   
+
+# 2: Using the len() built-in function, find the lenght of your first name.
+print(len(first_name))
